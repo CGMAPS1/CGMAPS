@@ -50,7 +50,7 @@
 
 ## 📌 Pinned Projects (Suggestions)
 
-*(Feel free to add your actual project links if public)*
+
 
 - 🧠 **[Sentiment Analyzer]**: Real-time analyzer with Flask, LSTM, MongoDB.
 - 📚 **[NLP Toolkit]**: Preprocessing toolkit for training NLP deep learning models.
