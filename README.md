@@ -48,17 +48,6 @@
 
 ---
 
-## 📌 Pinned Projects (Suggestions)
-
-
-
-- 🧠 **[Sentiment Analyzer]**: Real-time analyzer with Flask, LSTM, MongoDB.
-- 📚 **[NLP Toolkit]**: Preprocessing toolkit for training NLP deep learning models.
-- 🧮 **[LangChain RAG App]**: Document-aware chatbot using LangChain + OpenAI.
-- 🐚 **[Shell Scripts Hub]**: Handy Bash utilities for system tasks.
-
----
-
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-pratap-singh-admin/)
